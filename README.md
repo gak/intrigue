@@ -1,6 +1,6 @@
 # Overview
 
-`todo!()`
+Integer Trigonometry with pre-baked lookup tables.
 
 ## License
 

@@ -4,5 +4,6 @@ version = "0.0.1"
 edition = "2021"
 authors = ["gak <gak@gak0.com>"]
 license = "MIT OR Apache-2.0"
+description = "Integer Trigonometry with pre-baked lookup tables."
 
 [dependencies]
